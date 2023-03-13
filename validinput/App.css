@@ -1,0 +1,21 @@
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:bisque ;
+    height: 700px;
+    flex-direction: column;
+    gap: 30px;
+}
+
+input{
+    padding: 10px;
+}
+
+button{
+    padding: 10px;
+}
+
+label{
+    color: red;
+}
